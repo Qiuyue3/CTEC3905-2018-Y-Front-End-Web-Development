@@ -18,8 +18,9 @@ We are often asked by people, how do you take **“good photos?”** As a studio
 # Testimonials
 > Thank you for shooting Jared's Bar Mitzvah. Our experience working with you was fantastic and the pictures you captured are outstanding and really captured the magic of the day. **Ron & Nina B**
 
->Thank you, thank you, thank you!  you are an expert in making everyone feel good, happy and welcome. Oh and a terrific photographer too. **Alex Fredy**
->Thank you so much for everything you did for us at our wedding. You and Annette were an indispensable source of knowledge on the day of, and events leading up to the wedding, in addition to providing us with amazing photos. Photography isn't something we would have prioritized had we been left to our own devices, but now we see what a mistake that would have been. And although we are both very private people, sharing those special moments with the two of you, and trusting your professional judgement, yielded some awesome results. Thank you for being there to preserve our memories, it truly means the world to us now. With Gratitude. **Dan and Marisa**
+> Thank you, thank you, thank you!  you are an expert in making everyone feel good, happy and welcome. Oh and a terrific photographer too. **Alex Fredy**
+
+> Thank you so much for everything you did for us at our wedding. You and Annette were an indispensable source of knowledge on the day of, and events leading up to the wedding, in addition to providing us with amazing photos. Photography isn't something we would have prioritized had we been left to our own devices, but now we see what a mistake that would have been. And although we are both very private people, sharing those special moments with the two of you, and trusting your professional judgement, yielded some awesome results. Thank you for being there to preserve our memories, it truly means the world to us now. With Gratitude. **Dan and Marisa**
 
 # Photo Gallery
 *Putting you in the moment.*
