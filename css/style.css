@@ -269,6 +269,7 @@ a.app_store_btn:hover .android_icon{
 	width: 100%;
 	padding: 25px 0;
 	background: #f3f3f3;
+	display: flex;
 }
 
 .featured_on ul{
@@ -297,6 +298,7 @@ a.app_store_btn:hover .android_icon{
 	padding: 50px 0;
 	clear: both;
 	height: 620px;
+	display: flex;
 }
 
 .about .iphone{
@@ -400,6 +402,7 @@ a.app_store_btn:hover .android_icon{
 	width: 100%;
 	padding: 100px 0 20px 0;
 	background-color: #379960;
+	display: flex;
 }
 
 .app_features h1{
@@ -793,6 +796,10 @@ footer .copyright a{
     display: block;
 }
 
+.responsive{
+	display: flex;
+}
+
 div.gallery {
     border: 1px solid #ccc;
 }
@@ -803,7 +810,7 @@ div.gallery:hover {
 
 div.gallery img {
     width: 100%;
-    height: auto;
+    height: 150px;
 }
 
 div.desc {
