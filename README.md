@@ -1,6 +1,18 @@
 # CTEC3905-2018-Y-Front-End-Web-Development
 
-# Photography for Everyone!
+# Wireframe Sketches
+
+Sample Sketches for this website
+# Home
+![N|Solid](https://github.com/Qiuyue3/CTEC3905-2018-Y-Front-End-Web-Development/blob/master/wireframe/1-Homepage.png)
+
+# Testimonials
+![N|Solid](https://github.com/Qiuyue3/CTEC3905-2018-Y-Front-End-Web-Development/blob/master/wireframe/2-Testimonials.png)
+
+# Gallery
+![N|Solid](https://github.com/Qiuyue3/CTEC3905-2018-Y-Front-End-Web-Development/blob/master/wireframe/3-Gallery.png)
+
+# Capture Your Moments!
 
 His images are technically **superb**. He has a wonderful way of putting people at ease. His eye is great; he knows what will make a good picture and is capable of creating the right setting.
 
